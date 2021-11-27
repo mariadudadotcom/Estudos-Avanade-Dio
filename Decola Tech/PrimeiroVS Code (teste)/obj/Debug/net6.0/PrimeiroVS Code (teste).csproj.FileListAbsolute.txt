@@ -1,0 +1,15 @@
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\PrimeiroVS Code (teste).exe
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\PrimeiroVS Code (teste).deps.json
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\PrimeiroVS Code (teste).runtimeconfig.json
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\PrimeiroVS Code (teste).dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\ref\PrimeiroVS Code (teste).dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\bin\Debug\net6.0\PrimeiroVS Code (teste).pdb
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).csproj.AssemblyReference.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).AssemblyInfoInputs.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).AssemblyInfo.cs
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).csproj.CoreCompileInputs.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\ref\PrimeiroVS Code (teste).dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).pdb
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\PrimeiroVS Code (teste)\obj\Debug\net6.0\PrimeiroVS Code (teste).genruntimeconfig.cache

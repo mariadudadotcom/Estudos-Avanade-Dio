@@ -24,7 +24,7 @@ namespace ExemploPOO
 
             FileHelper helper = new FileHelper();
             //helper.ListarDiretorios(caminho);
-            //helper.ListarArquivosDiretorios(caminho);
+            helper.ListarArquivosDiretorios(caminho);
             //helper.CriarDiretorio(CaminhoPathCombine);
             //helper.ApagarDiretorio(CaminhoPathCombine, true);
             //helper.CriarArquivoTexto(CaminhoArquivo, "Oi, eu sou um texto criado para testes!");

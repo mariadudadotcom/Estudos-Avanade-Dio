@@ -1,0 +1,15 @@
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\DesafioTech.exe
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\DesafioTech.deps.json
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\DesafioTech.runtimeconfig.json
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\DesafioTech.dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\ref\DesafioTech.dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\bin\Debug\net6.0\DesafioTech.pdb
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.csproj.AssemblyReference.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.AssemblyInfoInputs.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.AssemblyInfo.cs
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.csproj.CoreCompileInputs.cache
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\ref\DesafioTech.dll
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.pdb
+C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\DesafiosCSharp\DesafioTech\obj\Debug\net6.0\DesafioTech.genruntimeconfig.cache

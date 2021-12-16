@@ -8,14 +8,16 @@ namespace DesafioTech.Desafios
     {
         public virtual void DesaUm()
         {
-            int C = Convert.ToInt32(Console.ReadLine());
-            while(C-- > 0)
+            int resposta = 0;
+            int N = Convert.ToInt32(Console.ReadLine());
+            while(N-- > 0)
             {
-                int val = Convert.ToInt32(Console.ReadLine());
-                int newval = (int)Math.Sqrt(val);        //complete com a sua lógica
-                int resposta = val - newval;
-                Console.WriteLine(resposta);
+                int c = Convert.ToInt32(Console.ReadLine());
+                int r = (int)Math.Sqrt(c);
+                int s = c - r;
+                resposta = s;
             }
+            Console.WriteLine(resposta);
         }
     }
 }

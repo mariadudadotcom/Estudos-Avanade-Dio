@@ -1,4 +1,4 @@
-namespace ProjetoFilmes
+namespace ProjetoFilmes.Classes
 {
     public abstract class EntidadeBase
     {

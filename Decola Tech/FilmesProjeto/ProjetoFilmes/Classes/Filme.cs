@@ -1,4 +1,5 @@
 using System;
+using ProjetoFilmes.Classes;
 
 namespace ProjetoFilmes
 {

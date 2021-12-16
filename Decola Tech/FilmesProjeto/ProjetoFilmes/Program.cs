@@ -5,7 +5,7 @@ namespace FilmesProjeto
 {
     class Program
     {
-        static FilmesRepositorio repositorio = new FilmesRepositorio();
+        static FilmeRepositorio repositorio = new FilmeRepositorio();
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();

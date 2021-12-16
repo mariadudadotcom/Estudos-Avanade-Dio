@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\SeriesProjeto\\ProjetoSeries\\ProjetoSeries.csproj": {}
+    "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\FilmesProjeto\\ProjetoFilmes\\ProjetoFilmes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\SeriesProjeto\\ProjetoSeries\\ProjetoSeries.csproj": {
+    "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\FilmesProjeto\\ProjetoFilmes\\ProjetoFilmes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\SeriesProjeto\\ProjetoSeries\\ProjetoSeries.csproj",
-        "projectName": "ProjetoSeries",
-        "projectPath": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\SeriesProjeto\\ProjetoSeries\\ProjetoSeries.csproj",
+        "projectUniqueName": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\FilmesProjeto\\ProjetoFilmes\\ProjetoFilmes.csproj",
+        "projectName": "ProjetoFilmes",
+        "projectPath": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\FilmesProjeto\\ProjetoFilmes\\ProjetoFilmes.csproj",
         "packagesPath": "C:\\Users\\Maria Eduarda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\SeriesProjeto\\ProjetoSeries\\obj\\",
+        "outputPath": "C:\\Users\\Maria Eduarda\\Documents\\GitHub\\Estudos-Avanade-Dio\\Decola Tech\\FilmesProjeto\\ProjetoFilmes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Maria Eduarda\\AppData\\Roaming\\NuGet\\NuGet.Config",

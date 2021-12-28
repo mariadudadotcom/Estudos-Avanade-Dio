@@ -1,5 +1,0 @@
-C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\Projeto-NotaAluno\obj\Debug\net6.0\Projeto-NotaAluno.csproj.AssemblyReference.cache
-C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\Projeto-NotaAluno\obj\Debug\net6.0\Projeto-NotaAluno.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\Projeto-NotaAluno\obj\Debug\net6.0\Projeto-NotaAluno.AssemblyInfoInputs.cache
-C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\Projeto-NotaAluno\obj\Debug\net6.0\Projeto-NotaAluno.AssemblyInfo.cs
-C:\Users\Maria Eduarda\Documents\GitHub\Estudos-Avanade-Dio\Decola Tech\Projeto-NotaAluno\obj\Debug\net6.0\Projeto-NotaAluno.csproj.CoreCompileInputs.cache
